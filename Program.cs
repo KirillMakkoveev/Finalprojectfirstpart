@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[5] {"1234", "23", "desroy", "pacidic", "run"};
+﻿string[] array1 = new string[5] {"1234", "23", "destroy", "pacific", "run"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
