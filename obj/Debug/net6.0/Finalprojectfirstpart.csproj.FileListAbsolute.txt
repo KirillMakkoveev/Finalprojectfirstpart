@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\bin\Debug\net6.0\Finalprojectfirstpart.exe
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\bin\Debug\net6.0\Finalprojectfirstpart.deps.json
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\bin\Debug\net6.0\Finalprojectfirstpart.runtimeconfig.json
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\bin\Debug\net6.0\Finalprojectfirstpart.dll
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\bin\Debug\net6.0\Finalprojectfirstpart.pdb
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.AssemblyInfo.cs
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.dll
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\refint\Finalprojectfirstpart.dll
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.pdb
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\Finalprojectfirstpart.genruntimeconfig.cache
+C:\Users\User\Desktop\Кирилл ♡\Finalprojectfirstpart\obj\Debug\net6.0\ref\Finalprojectfirstpart.dll
